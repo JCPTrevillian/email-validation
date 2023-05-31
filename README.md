@@ -1,0 +1,19 @@
+# email-validation
+\
+\
+![1](https://github.com/JCPTrevillian/email-validation/assets/95890754/4703e26d-aae0-4654-af33-0304f8238e82)
+\
+\
+![a](https://github.com/JCPTrevillian/email-validation/assets/95890754/edcb8bfb-87be-469e-8895-95296a06bb05)
+\
+\
+![2](https://github.com/JCPTrevillian/email-validation/assets/95890754/5f09a1a6-7378-46c7-98d4-95490a788e32)
+\
+\
+![b](https://github.com/JCPTrevillian/email-validation/assets/95890754/71d109e0-c581-49cf-b082-75db7b6d5183)
+\
+\
+![3](https://github.com/JCPTrevillian/email-validation/assets/95890754/dac90268-d4ce-4a39-9ac6-a16800efd306)
+\
+\
+![c](https://github.com/JCPTrevillian/email-validation/assets/95890754/15d4d61e-77fc-49e4-9933-7b91c1370bc8)
